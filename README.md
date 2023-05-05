@@ -32,7 +32,12 @@ Damage:200
 Protection:100
 
 * Thor's Inventory:
-Hammer, Axe
+*Hammer
 Description:Can control thunder
 Damage:300
 Protection:120
+
+*Axe
+Description: Fast cutting with thunder
+Damage: 400
+Protection: 150
