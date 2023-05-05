@@ -24,9 +24,7 @@ Iron Man's Inventory:
 *Iron Suits
 
 Description: Can fly, powerfull puches, dangerous weapons
-
-Damage:100
-
+#Damage:100
 Protection:200
 
 Hulk's Inventory:
