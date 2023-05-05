@@ -35,4 +35,4 @@ Protection:100
 Hammer, Axe
 Description:Can control thunder
 Damage:300
-Protection:100
+Protection:120
