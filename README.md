@@ -11,9 +11,11 @@ Thor's secret identity Dr. Donald Blake
 Thor's super power is His Hammer and Able to control thunder
 Thor has 300 heath points
 
-Location:
+*Location:
 Iron man's home is Stark Tower
+
 Hulk lives in New york
+
 Asgard is the place where thor lives
 
 * Iron Man's Inventory:
