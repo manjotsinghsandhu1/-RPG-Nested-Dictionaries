@@ -18,6 +18,7 @@ Iron man's home is Stark Tower
 Hulk lives in New york
 
 Asgard is the place where thor lives
+* Inventories:
 
 Iron Man's Inventory:
 
