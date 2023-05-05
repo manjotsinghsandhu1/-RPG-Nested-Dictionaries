@@ -32,17 +32,17 @@ Hulk's Inventory:
 
 *Ability to transform in super human
 
-Description:high strenght, Ability to jump high
-, Damage:200
-, Protection:100
+Description: high strenght, Ability to jump high
+, Damage: 200
+, Protection: 100
 
 Thor's Inventory:
 
 *Hammer
 
-Description:Can control thunder
-, Damage:300
-, Protection:120
+Description: Can control thunder
+, Damage: 300
+, Protection: 120
 
 *Axe
 
